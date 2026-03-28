@@ -7,7 +7,7 @@
   "trl": 0,
   "sealring_x": 1.0,
   "sealring_y": 1.0,
-  "repository": "",
+  "repository": "https://github.com/bhavesh15112004/IHP__OTA5174.git",
   "pdk_version": "",
   "process": "SG13CMOS",
   "dependencies": {},
